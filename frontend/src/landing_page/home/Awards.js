@@ -43,5 +43,4 @@ function Awards() {
         </div>
      );
 }
-
 export default Awards;
